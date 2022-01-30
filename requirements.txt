@@ -4,3 +4,5 @@ Emoji
 Type caption
 colors
 vibrat
+Dark mode
+video call
