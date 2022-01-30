@@ -6,3 +6,8 @@ colors
 vibrat
 Dark mode
 video call
+
+
+Payment option
+Send money
+Receive money
